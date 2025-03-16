@@ -58,7 +58,7 @@ for url in [
         title = "LoFi - " + remove_emojis(video['title'])
         pic = video['thumbnails'][0]["url"]  # TODO channel thumbnail for logo
         stream = PREFIX + video['url']
-        M3U += f"""\n#EXTINF:-1 group-title="TV"", {title}\n{stream}\n"""
+        M3U += f"""\n#EXTINF:-1 group-title="TV", {title}\n{stream}\n"""
 
 with open("youtube_lofi.m3u", "w") as f:
     f.write(M3U)

@@ -1,21 +1,21 @@
 
-#EXTINF:-1 group-title="TV"", Euronews em direto
+#EXTINF:-1 group-title="TV", Euronews em direto
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=XuZAl-ZPEcA
 
-#EXTINF:-1 group-title="TV"", FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream
+#EXTINF:-1 group-title="TV", FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=Ap-UM1O9RBU
 
-#EXTINF:-1 group-title="TV"", DW News livestream: Headline news from around the world
+#EXTINF:-1 group-title="TV", DW News livestream: Headline news from around the world
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=tZT2MCYu6Zw
 
-#EXTINF:-1 group-title="TV"", Watch CGTN Europe News LIVE 24/7
+#EXTINF:-1 group-title="TV", Watch CGTN Europe News LIVE 24/7
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=pd3CgRzcQdA
 
-#EXTINF:-1 group-title="TV"", AO VIVO: Acompanhe as principais notícias do dia na Record News
+#EXTINF:-1 group-title="TV", AO VIVO: Acompanhe as principais notícias do dia na Record News
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=9Gj4T7Lriys
 
-#EXTINF:-1 group-title="TV"", Watch Sky News
+#EXTINF:-1 group-title="TV", Watch Sky News
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=YDvsBbKfLPA
 
-#EXTINF:-1 group-title="TV"", Africanews english Live
+#EXTINF:-1 group-title="TV", Africanews english Live
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=NQjabLGdP5g
