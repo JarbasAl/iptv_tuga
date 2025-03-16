@@ -1,52 +1,3 @@
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-http://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
-#EXTVLCOPT:http-user-agent=IE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
-http://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
-#EXTVLCOPT:http-user-agent=IE
-#http://streaming-live-app.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
-#EXTVLCOPT:http-user-agent=IE
-http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
-#KODIPROP:inputstream=inputstream.adaptive
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
-
 #EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://sic.pt/
@@ -56,10 +7,6 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDI1IDEyOjk6MTQgUE0maGFzaF92YWx1ZT0ydFMrcWVuSWxLd09FcXc5WnJYZGhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDc0YjY2ODItNjYzOC00Y2Q2LWJiZmMtMDc5YmQ3MzRjYWFk/
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
-#KODIPROP:inputstream=inputstream.adaptive
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -117,17 +64,9 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
-#KODIPROP:inputstream=inputstream.adaptive
-https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RadioSines.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rádio-Sines.png",Rádio Sines
-#KODIPROP:inputstream=inputstream.adaptive
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="http://www.kuriakos-tv.com/img/logo.png",Kuriakos TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -148,14 +87,6 @@ https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 #KODIPROP:inputstream=inputstream.adaptive
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
-#KODIPROP:inputstream=inputstream.adaptive
-http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
-#KODIPROP:inputstream=inputstream.adaptive
-http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KKTV" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="TV", KK TV Angola
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
