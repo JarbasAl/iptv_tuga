@@ -1,0 +1,23 @@
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr"" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png", Euronews PT (youtube)
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@euronewspt/live
+
+#EXTINF:-1 group-title="TV", France 24
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@France24_en/live
+
+#EXTINF:-1 group-title="TV", DW News
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@dwnews/live
+
+#EXTINF:-1 group-title="TV", CGTN Europe
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@CGTNEurope/live
+
+#EXTINF:-1 group-title="TV", Record News
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@recordnews/live
+
+#EXTINF:-1 group-title="TV", Sky News
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@SkyNews/live
+
+#EXTINF:-1 group-title="TV", Africa News
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@africanews/live
+
+#EXTINF:-1 group-title="TV", Noticias Telemundo AHORA - Noticias en español 24/7
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@noticias/live

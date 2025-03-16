@@ -1,0 +1,9 @@
+services:
+  streamlink-server:
+    build: .
+    container_name: streamlink-server
+    image: streamlink-server/api
+    network_mode: host
+    ports:
+      - "6090:6090"
+    restart: unless-stopped
