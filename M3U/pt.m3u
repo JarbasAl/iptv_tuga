@@ -64,9 +64,6 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
-#KODIPROP:inputstream=inputstream.adaptive
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="http://www.kuriakos-tv.com/img/logo.png",Kuriakos TV
 #KODIPROP:inputstream=inputstream.adaptive
