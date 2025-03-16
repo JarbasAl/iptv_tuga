@@ -29,25 +29,19 @@ def remove_emojis(text):
 M3U = ""
 
 for url in [
-    "https://www.youtube.com/@LofiGirl/streams",
-    "https://www.youtube.com/@LofiontheRooftop/streams",
-    "https://www.youtube.com/@FilipLackovicMusic/streams",
-    "https://www.youtube.com/@celestialaeonproject/streams",
-    "https://www.youtube.com/@Pluviophile_Lofi/streams",
-    "https://www.youtube.com/@Aestheticlofi./streams",
-    "https://www.youtube.com/@HealingWithMe./streams",
-    "https://www.youtube.com/@TokyoTones/streams",
-    "https://www.youtube.com/@ChillhopMusic/streams",
-    "https://www.youtube.com/@InYourChill/streams",
-    "https://www.youtube.com/@NightrideFM/streams",
-    "https://www.youtube.com/@SpongeBobLofi/streams",
-    "https://www.youtube.com/@futaba-cafe/streams",
-    "https://www.youtube.com/@GlitchxCity/streams",
-    "https://www.youtube.com/@LoFi_Pokemon_Matcha/streams",
-    "https://www.youtube.com/@CinderyLofi/streams",
-    "https://www.youtube.com/@FantasyLofi/streams",
-    "https://www.youtube.com/@ChillAstronaut/streams",
-    "https://www.youtube.com/@Frip2gameOrg/streams"
+    "https://www.youtube.com/@EverythingAIandLawPodcast/streams",
+    "https://www.youtube.com/@aisongmetalpro/streams",
+    "https://www.youtube.com/@scifivibes/streams",
+    "https://www.youtube.com/@AIRetroRewind/streams",
+    "https://www.youtube.com/@trancestationer/streams",
+    "https://www.youtube.com/@DonClarkson_NFT/streams",
+    "https://www.youtube.com/@ValeriaMessalinatimequeen/streams",
+    "https://www.youtube.com/@BearBuddhaRelaxation/streams",
+    "https://www.youtube.com/@dadabots_/streams",
+    "https://www.youtube.com/@jazza42261/streams",
+    "https://www.youtube.com/@AISponge3/streams",
+    "https://www.youtube.com/@ai-peter/streams",
+    "https://www.youtube.com/@kennycentral/streams"
 
 ]:
     live_videos = get_live_streams(url)
@@ -55,10 +49,10 @@ for url in [
         if video.get("duration"):  # not live
             continue
         # print(video)
-        title = "LoFi - " + remove_emojis(video['title'])
+        title = remove_emojis(video['title'])
         pic = video['thumbnails'][0]["url"]  # TODO channel thumbnail for logo
         stream = PREFIX + video['url']
         M3U += f"""\n#EXTINF:-1 group-title="TV"", {title}\n{stream}\n"""
 
-with open("youtube_lofi.m3u", "w") as f:
+with open("youtube_ai.m3u", "w") as f:
     f.write(M3U)
