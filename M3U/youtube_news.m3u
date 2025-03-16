@@ -1,23 +1,21 @@
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr"" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png", Euronews PT (youtube)
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@euronewspt/live
 
-#EXTINF:-1 group-title="TV", France 24
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@France24_en/live
+#EXTINF:-1 group-title="TV"", Euronews em direto
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=XuZAl-ZPEcA
 
-#EXTINF:-1 group-title="TV", DW News
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@dwnews/live
+#EXTINF:-1 group-title="TV"", FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=Ap-UM1O9RBU
 
-#EXTINF:-1 group-title="TV", CGTN Europe
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@CGTNEurope/live
+#EXTINF:-1 group-title="TV"", DW News livestream: Headline news from around the world
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=tZT2MCYu6Zw
 
-#EXTINF:-1 group-title="TV", Record News
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@recordnews/live
+#EXTINF:-1 group-title="TV"", Watch CGTN Europe News LIVE 24/7
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=pd3CgRzcQdA
 
-#EXTINF:-1 group-title="TV", Sky News
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@SkyNews/live
+#EXTINF:-1 group-title="TV"", AO VIVO: Acompanhe as principais notícias do dia na Record News
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=9Gj4T7Lriys
 
-#EXTINF:-1 group-title="TV", Africa News
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@africanews/live
+#EXTINF:-1 group-title="TV"", Watch Sky News
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=YDvsBbKfLPA
 
-#EXTINF:-1 group-title="TV", Noticias Telemundo AHORA - Noticias en español 24/7
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@noticias/live
+#EXTINF:-1 group-title="TV"", Africanews english Live
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/watch?v=NQjabLGdP5g
