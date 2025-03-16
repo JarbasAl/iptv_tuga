@@ -59,7 +59,6 @@ for url in [
         pic = video['thumbnails'][0]["url"]  # TODO channel thumbnail for logo
         stream = PREFIX + video['url']
         M3U += f"""\n#EXTINF:-1 group-title="TV"", {title}\n{stream}\n"""
-        break
 
-with open("lofi.m3u8", "w") as f:
+with open("youtube_lofi.m3u", "w") as f:
     f.write(M3U)
