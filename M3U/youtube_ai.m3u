@@ -1,11 +1,32 @@
+
+#EXTINF:-1 group-title="TV", AI News - Weekly Recap
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@EverythingAIandLawPodcast/live
+
+
+#EXTINF:-1 group-title="TV", AI MUSIC METAL PRO
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@aisongmetalpro/live
+
+#EXTINF:-1 group-title="TV", Vixens of Zeta Prime
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@scifivibes/live
+
+#EXTINF:-1 group-title="TV", Atomic Radio: 24/7 Retro-Futuristic Tunes from the 1950s Future
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@AIRetroRewind/live
+
+#EXTINF:-1 group-title="TV", Enter the AI Music Realm: Live Creation
+https://www.youtube.com/@DonClarkson_NFT/live
+
+#EXTINF:-1 group-title="TV", Valeria Mesalina - AI Music Videos
+https://www.youtube.com/@ValeriaMessalinatimequeen/live
+
+
 #EXTINF:-1 group-title="TV", AI Sponge Rehydrated
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/@AISponge3/live
 
 #EXTINF:-1 group-title="TV", AI Generated Family Guy Parody
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/@ai-peter/live
 
+#EXTINF:-1 group-title="TV", AI Generated South Park
+http://192.168.1.200:6090/stream?url=https://www.youtube.com/@kennycentral/live
+
 #EXTINF:-1 group-title="TV", AI Parodies Live
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/@jazza42261/live
-
-#EXTINF:-1 group-title="TV", AI News - Weekly Recap
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@EverythingAIandLawPodcast/live

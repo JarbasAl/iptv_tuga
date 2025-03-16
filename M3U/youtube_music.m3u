@@ -1,10 +1,4 @@
 
-#EXTINF:-1 group-title="TV", Vixens of Zeta Prime
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@scifivibes/live
-
-#EXTINF:-1 group-title="TV", Atomic Radio: 24/7 Retro-Futuristic Tunes from the 1950s Future
-http://192.168.1.200:6090/stream?url=https://www.youtube.com/@AIRetroRewind/live
-
 #EXTINF:-1 group-title="TV", CENTURY MEDIA RECORDS ⦁ 24/7 Livestream
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/@centurymedia/live
 
@@ -16,9 +10,6 @@ http://192.168.1.200:6090/stream?url=://www.youtube.com/@solitudeprod/live
 
 #EXTINF:-1 group-title="TV", SABATON Live Stream ⦁ 24/7
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/channel/UCjQhd1APsd5NQhiVZV7GYzg/live
-
-#EXTINF:-1 group-title="TV", AI MUSIC METAL PRO
-http://192.168.1.200:6090/stream?url=hhttps://www.youtube.com/@aisongmetalpro/live
 
 #EXTINF:-1 group-title="TV", Frontiers Music 24-7 Live Stream
 http://192.168.1.200:6090/stream?url=https://www.youtube.com/@frontiersmusicsrl/live
